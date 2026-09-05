@@ -1,1 +1,1 @@
-# robin-chen-case-study-igaming-product-analytics-dashboard
+# Robin Chen case study - iGamimg product analytics dashboard
